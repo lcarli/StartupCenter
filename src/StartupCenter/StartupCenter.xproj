@@ -15,6 +15,7 @@
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
     <WebProject_DirectoryAccessLevelKey>0</WebProject_DirectoryAccessLevelKey>
+    <ApplicationInsightsResourceId>/subscriptions/9dbe751b-fe14-4fe9-ae37-4666081be8d0/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/StartupCenter</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
